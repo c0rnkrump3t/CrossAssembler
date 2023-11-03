@@ -7,12 +7,12 @@ The goal of this project was to create a cross-assembler in Java that processes 
 
 ### Teammates:
 
-Maya McRae
-Yushan Yang
-Mohona Mazumdar
-Marita Brichan
-Aida Kordi
-Tarun Elango
-Gechen Ma
-Marita Brichan
-Yu Fei Xiang
+- Maya McRae
+- Yushan Yang
+- Mohona Mazumdar
+- Marita Brichan
+- Aida Kordi
+- Tarun Elango
+- Gechen Ma
+- Marita Brichan
+- Yu Fei Xiang
